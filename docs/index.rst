@@ -2,7 +2,7 @@ Tutorials: How to Install Trend Micro for Best Buy on Desktop or Laptop
 ==========================================================================================
 When it comes to protecting your personal computer from viruses, malware, ransomware, and phishing attacks, **Trend Micro Security for Best Buy** is a top-tier solution. If you've recently purchased a subscription through Best Buy, you're in the right place. This guide will walk you through every step to **Install Trend Micro for Best Buy** on your desktop or laptop.
 
-Step-by-Step: How to Install Trend Micro on Desktop or Laptop
+Step-by-Step: How to Install Trend Micro on Desktop or Laptop?
 -------------------------------------------------------------
 
 Follow these instructions for a smooth installation experience:
