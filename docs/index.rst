@@ -2,8 +2,8 @@ Tutorials: How to Install Trend Micro for Best Buy on Desktop or Laptop
 ==========================================================================================
 .. raw:: html
 
-    <a class="reference internal image-reference" href="_images/blank.png">
-        <img alt="_images/blank.png" class="align-center" src="_images/blank.png" style="width: 350px; height: 100px;" />
+    <a class="reference external image-reference" href="_images/blank.png">
+        <img alt="_images/blank.png" class="align-center" src="_images/blank.webp" style="width: 350px; height: 100px;" />
     </a>
 
 .. raw:: html
