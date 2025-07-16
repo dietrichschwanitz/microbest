@@ -1,26 +1,23 @@
-# Configuration file for the Sphinx documentation builder.
+# Configuration file for the Sphinx documentation builder
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 project = 'microbest'
-author = 'James Pol'
+copyright = '2025'
+author = 'Willi Heinrich'
+
 release = '1.0'
 
-extensions = []
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.napoleon'
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-# -- Options for HTML output -------------------------------------------------
-
 html_theme = 'alabaster'
-
-# Add both _static and _images to static path
-html_static_path = ['_static', '_images']
-
-# Custom CSS
-html_css_files = ['custom.css']
-
-# Optional: if you have a logo
-html_logo = '_images/Enter_Product_Key.png'
-
-# Set master doc
-master_doc = 'index'
+html_static_path = ['_static']
