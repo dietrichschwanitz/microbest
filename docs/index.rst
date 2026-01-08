@@ -12,7 +12,7 @@ When it comes to protecting your personal computer from viruses, malware, ransom
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Now</a>
+       <a href="https://mytrendmicro.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Now</a>
    </div>
 
 Step-by-Step: How to Install Trend Micro on Desktop or Laptop?
@@ -80,3 +80,4 @@ To install on another desktop or laptop:
 3. Repeat the installation steps on the new device.
 
 Your Trend Micro account will track all activated devices under the same license.
+
